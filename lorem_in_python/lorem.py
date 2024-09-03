@@ -3,7 +3,7 @@
 
 import random
 
-alpha = " abcd efgh ijkl mnop qrst uvwx yz"
+alpha = " abcd efgh ijkl mnop qrst uvwx yz ABCD EFG HIJK LMNO PQR STU VWX YZ"
 
 l = int(input("enter the number rows in ur paragraph:\n"))
 
